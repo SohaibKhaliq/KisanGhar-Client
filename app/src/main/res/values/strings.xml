@@ -8,9 +8,9 @@
     <string-array name="Role">
         <item>Seller and Buyer</item>
         <item>Buyer</item>
-<!--        <item>Transporter</item>-->
-<!--        <item>Seller and Transporter</item>-->
-<!--        <item>Buyer and Transporter</item>-->
+        <!--        <item>Transporter</item>-->
+        <!--        <item>Seller and Transporter</item>-->
+        <!--        <item>Buyer and Transporter</item>-->
     </string-array>
 
 
