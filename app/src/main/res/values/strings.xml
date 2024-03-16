@@ -12,4 +12,11 @@
 <!--        <item>Seller and Transporter</item>-->
 <!--        <item>Buyer and Transporter</item>-->
     </string-array>
+
+
+    <string name="navigation_drawer_open">navigation_drawer_open </string>
+    <string name="navigation_drawer_close"> navigation_drawer_close</string>
+
+    <string name="name_app">Kisan Ghar</string>
+    <string name="search_text">Search</string>
 </resources>
